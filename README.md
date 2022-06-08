@@ -47,13 +47,5 @@ Give a ⭐️ if you like this project!
 
 ## 📝 License
 
-This project is MIT licensed.
-- Page titles
-- Image text alternatives** (<img alt="alt text">)
-- Text headings
-- Color contrast
-- Resize
-- Interaction
-- Moving content
-- Multimedia
-- The basic structure of the page
+This project is MIT licenced.
+
