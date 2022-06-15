@@ -1,7 +1,7 @@
 body {
   padding: 0;
   margin: 0;
-  background-color: rgb(36, 31, 31);
+  background-color: rgb(13, 1, 1);
 }
 
 .mainContainer {
@@ -15,7 +15,7 @@ body {
 }
 
 .displayInputs {
-  background-color: rgb(36, 31, 31);
+  background-color: rgb(14, 13, 13);
   width: 40%;
   height: 80px;
   font-size: 40px;
@@ -23,40 +23,58 @@ body {
   align-items: flex-end;
   justify-content: flex-end;
   color: #d3d3d3;
-  border: 1px solid;
+  border: 1px solid rgb(170, 207, 239);
+
+  /* box-shadow: 5px 8px 5px rgb(181, 173, 173); */
 }
 
 .calcDiv {
   display: grid;
   grid-template-columns: auto auto auto auto;
   width: 40%;
+
+  /* box-shadow: 5px 8px 5px rgb(181, 173, 173); */
 }
 
 .btn {
   font-size: 30px;
   background-color: rgb(36, 31, 31);
-  border: 1px solid #b1adad;
-  color: aliceblue;
+  border-bottom: 1px solid rgb(170, 207, 239);
+  border-left: 1px solid rgb(170, 207, 239);
+  color: white;
   height: 97px;
 }
 
 .btn:active {
-  background-color: rgb(74, 37, 37);
+  background-color: rgb(191, 22, 22);
 }
 
 .btnZero {
   height: 97px;
   font-size: 30px;
   background-color: rgb(36, 31, 31);
-  color: red;
-  border: 1px solid #b1adad;
-  grid-column: 1/3;
+  color: rgb(238, 227, 227);
+  border-left: 1px solid rgb(170, 207, 239);
+  border-bottom: 1px solid rgb(170, 207, 239);
+  grid-column: 1/2;
 }
 
 .btnZero:active {
-  background-color: #9c9898;
+  background-color: #c81e1e;
 }
 
 .btnclick {
-  background-color: red;
+  background-color: black;
+  color: rgb(12, 179, 184);
+  border-right: 1px solid rgb(170, 207, 239);
+}
+
+.btnclick:active {
+  background-color: rgb(36, 31, 31);
+}
+
+.equal {
+  grid-column: 3/5;
+  background-color: rgb(12, 179, 184);
+  color: white;
 }

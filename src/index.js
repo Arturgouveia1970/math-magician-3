@@ -1,11 +1,11 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import DisplayCalc from './App';
+import DisplayPage from './App';
 import reportWebVitals from './reportWebVitals';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
-  <DisplayCalc />,
+  <DisplayPage />,
 );
 
 // If you want to start measuring performance in your app, pass a function
