@@ -24,6 +24,7 @@ body {
   justify-content: flex-end;
   color: #d3d3d3;
   border: 1px solid rgb(170, 207, 239);
+
   /* box-shadow: 5px 8px 5px rgb(181, 173, 173); */
 }
 
@@ -31,6 +32,7 @@ body {
   display: grid;
   grid-template-columns: auto auto auto auto;
   width: 40%;
+
   /* box-shadow: 5px 8px 5px rgb(181, 173, 173); */
 }
 
@@ -53,7 +55,7 @@ body {
   background-color: rgb(36, 31, 31);
   color: rgb(238, 227, 227);
   border-left: 1px solid rgb(170, 207, 239);
-  border-bottom: 1px solid rgb(170, 207, 239) ;
+  border-bottom: 1px solid rgb(170, 207, 239);
   grid-column: 1/2;
 }
 
