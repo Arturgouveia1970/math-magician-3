@@ -48,7 +48,7 @@ const Calculator = () => {
         <button onClick={handleClicks} type="button" className="btn btnclick" value="+">+</button>
         <button onClick={handleClicks} type="button" className="btnZero" value="0">0</button>
         <button onClick={handleClicks} type="button" className="btn" value=".">.</button>
-        <button onClick={handleClicks} type="button" className="btn btnclick" value="=">=</button>
+        <button onClick={handleClicks} type="button" className="btn btnclick equal" value="=">=</button>
       </div>
     </div>
   );
