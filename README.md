@@ -2,7 +2,7 @@
 
 # Math Magician Aplication
 
-> A single page application with a calculator
+> A single page application with a calculator and a nice quote!
 
 ## Built With
 
@@ -21,6 +21,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - GitHub: @Arturgouveia1970
 - Twitter: @Arturgouveia10
 - LinkedIn: artur-gouveia-323868197
+
+## Live Demo
+[netlify link](https://arturgouveia-math-magician-app.netlify.app)
    
 ## Getting Started
 
