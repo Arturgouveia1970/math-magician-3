@@ -24,6 +24,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Live Demo
 [netlify link](https://arturgouveia-math-magician-app.netlify.app)
+
+[heroku link](https://artur-math-magician.herokuapp.com/)
    
 ## Getting Started
 
